@@ -1,10 +1,10 @@
 TO TRY YOU CAN ACCESS IT USING
 
 GET /users
-🔗 https://simple-rest-api-example.onrender.com/users
+🔗 https://express-rest-api-mu.vercel.app/users
 
 POST /users
-🔗 https://simple-rest-api-example.onrender.com/users
+🔗 https://express-rest-api-mu.vercel.app/users
 
 GET /users/:id
-🔗 https://simple-rest-api-example.onrender.com/users/1
+🔗 https://express-rest-api-mu.vercel.app/users/1
